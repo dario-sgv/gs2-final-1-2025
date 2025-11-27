@@ -1,0 +1,13 @@
+SCRUM es un proceso ágil donde se trabaja en ciclos cortos llamados sprints.
+
+
+
+Actores: Product Owner, Scrum Master y Equipo de Desarrollo.
+
+
+Artefactos: Product Backlog, Sprint Backlog e Incremento.
+
+
+Ceremonias: Sprint Planning, Daily Scrum, Sprint Review y Sprint Retrospective.
+
+
