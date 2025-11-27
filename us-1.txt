@@ -1,0 +1,8 @@
+Los dos tipos de requisitos son: Funcionales y No Funcionales.
+
+
+Ejemplo funcional:  El sistema debe permitir iniciar sesión con usuario y contraseña.
+
+Ejemplo no funcional: El sistema debe cargar en menos de 3 segundos.
+
+
